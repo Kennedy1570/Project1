@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Kennedy\\OneDrive\\Desktop\\Project1",
+            "binaryPath": "c:\\Users\\Kennedy\\OneDrive\\Desktop\\Project1\\diceGame.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
