@@ -1,6 +1,6 @@
-# PROJECT TITLE - Dice Game Simulator
-This is a game that simulates rolling two dice however many times the user chooses to roll.
-Generates random numbers from each roll and tells you how many times a certain number was rolled from 2-12.
-I am trying to get familiar with C++; this is my first real attempt at a coding project in C++.
+# PROJECT TITLE: Dice Game Simulator
+Usage: This program allows one to simulate 2 dice being rolled to give random numbers combined to be between 2-12.
+Purpose of making it: Wanted to learn C++ and the concept of OOP.
+Licenses: Kennedy Eziolise.
 Standard code style.
-Built with VS Code IDE.
+Software Implemented: VSCode IDE.
